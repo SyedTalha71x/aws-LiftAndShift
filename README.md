@@ -2,7 +2,8 @@
 The VProfile project is deployed on Amazon Web Services (AWS), utilizing various services to ensure scalability, security, and performance. Here’s an overview of the deployment architecture:
 
 ## Key Components
-Security Groups:
+
+## Security Groups:
 
 We created specific security groups for each service:
 Load Balancer Security Group: Routes incoming traffic to the appropriate instances.
