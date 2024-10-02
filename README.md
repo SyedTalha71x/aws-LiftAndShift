@@ -9,7 +9,8 @@ We created specific security groups for each service:
 Load Balancer Security Group: Routes incoming traffic to the appropriate instances.
 Application Security Group: Protects the instance running Tomcat and specifies allowed inbound traffic.
 
-##Backend Services Security Groups: Configures access for backend services by specifying their ports.
+# Backend Services Security Groups:
+Configures access for backend services by specifying their ports.
 
 ## Amazon S3:
 
